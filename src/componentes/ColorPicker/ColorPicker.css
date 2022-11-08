@@ -1,0 +1,11 @@
+.colorPicker {
+    width: 3rem;
+    height: 2rem;
+    cursor: pointer;
+    border: none;
+    transition: all .3s;
+}
+
+.colorPicker:hover {
+    transform: scale(1.1);
+}
