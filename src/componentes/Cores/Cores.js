@@ -12,7 +12,7 @@ export const Cores = () => {
     position2: "to left",
     background: "linear-gradient(360deg, #E75590, #132126)",
   });
-
+//hello
   useEffect(() => {
     cfg.position
       ? setCfg((prevState) => ({
